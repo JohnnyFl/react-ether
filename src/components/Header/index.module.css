@@ -1,0 +1,26 @@
+.header {
+  width: 100%;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  color: rgba(0, 0, 0, 0.7);
+  background: #ffffff;
+  box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+}
+
+.address {
+  font-style: italic;
+  font-size: 1rem;
+}
+
+.addressInput {
+  min-width: 400px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: inset 6px 6px 10px #b8b8b8, inset -6px -6px 10px #fafafa;
+  /* box-shadow: inset 4px 8px 8px #cbced1, inset -8px -8px 8px #ffffff; */
+}

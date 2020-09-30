@@ -1,0 +1,16 @@
+.searchButton {
+  padding: 8px 32px;
+  margin-left: 16px;
+  border: none;
+  /* background-color: green; */
+  background: #24cfaa;
+  border-radius: 8px;
+  box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #ffffff;
+  cursor: pointer;
+  transition: 0.5s;
+  color: white;
+}
+
+.searchButton:hover {
+  background: #2fdbb6;
+}
